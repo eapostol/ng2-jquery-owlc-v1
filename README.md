@@ -1,4 +1,26 @@
-# Ng2JqueryOwlcV1
+# Angular 2 CLI 1.0 RC0, JQuery 3.1.x, Owl Carousel 2.2.x
+
+
+1. Install Angular 2.0 CLI v 1.0.0-rc0
+2. npm install typings -g
+3. npm install jquery
+4.  a) typings install dt~jquery --global --save
+
+and
+
+4.  b) npm install --save @types/jQuery
+
+5. npm install --save owl.carousel
+
+
+6. npm install --save-dev @types/owlcarousel
+
+
+
+
+
+
+**********
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
 
